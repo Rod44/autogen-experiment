@@ -260,4 +260,4 @@ user_proxy = autogen.UserProxyAgent(
 )
 
 user_proxy.initiate_chat(
-    writing_assistant, message="write a blog about autogen multi AI agent framework")
+    writing_assistant, message="write a blog about autogen multi AI   agent framework")
